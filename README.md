@@ -1,4 +1,4 @@
-nowflake SQL Tutorial Assignment
+Snowflake SQL Tutorial Assignment
 This repository contains the step-by-step SQL scripts, workflows, and verification queries for completing the Snowflake Tutorial Assignment using Snowsight (Snowflake Web Interface) and SnowSQL.
 
 📌 Table of Contents
